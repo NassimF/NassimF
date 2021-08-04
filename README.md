@@ -4,8 +4,10 @@
 - 🌱 I’m currently studying Deep Learning and Reinforcement Learning.
 - 💞️ I’m looking to collaborate on any projects and academic papers regarding my interests.
 - 📫 How to reach me: 
-Email: nasimfaridnia@gmail.com
-Linkedin: https://www.linkedin.com/in/nasim-faridnia/
+ 
+     Email: nasimfaridnia@gmail.com
+     
+    Linkedin: https://www.linkedin.com/in/nasim-faridnia/
 
 <!---
 NassimF/NassimF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
