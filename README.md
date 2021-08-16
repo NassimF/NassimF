@@ -1,3 +1,5 @@
+  # Introduction
+
 - 👋 Hi, I’m Nasim Faridnia
 - 🎓 I'm a Senior Computer Science student at Guilan University
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
@@ -8,6 +10,14 @@
      Email: nasimfaridnia@gmail.com
      
     Linkedin: https://www.linkedin.com/in/nasim-faridnia/
+    
+    
+    
+    
+    
+    ## ⛏📚Projects to be added:
+    - Database manager
+    - Dynamic and greedy job scheduling
 
 <!---
 NassimF/NassimF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
