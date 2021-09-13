@@ -16,6 +16,7 @@
     
     
     ## ⛏📚Projects to be added:
+    - My Bachelor's project about Machine Learning
     - Database manager
     - Dynamic and greedy job scheduling
 
