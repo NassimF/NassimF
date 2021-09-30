@@ -16,7 +16,7 @@
     
     
     ## ⛏📚Projects to be added:
-    - My Bachelor's project about Machine Learning (Supervisor: Dr.Sadegh Eskandari)
+    - My Bachelor thesis about **"Multi-label Feature Selection"** (Supervisor: Dr.Sadegh Eskandari)
     - Database manager
     - Dynamic and greedy job scheduling
 
