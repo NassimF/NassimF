@@ -17,8 +17,7 @@
     
     ## ⛏📚Projects to be added:
     - My Bachelor thesis about **"Multi-label Feature Selection"** (Supervisor: Dr.Sadegh Eskandari)
-    - Database manager
-    - Dynamic and greedy job scheduling
+   
 
 <!---
 NassimF/NassimF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
