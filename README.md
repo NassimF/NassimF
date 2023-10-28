@@ -1,9 +1,9 @@
   # Introduction
 
 - 👋 Hi, I’m Nasim Faridnia
-- 🎓 I'm a Senior Undergraduate Computer Science student at Guilan University
+- 🎓 I'm a Computer Science graduate from Guilan University
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently researching Deep Learning, Reinforcement Learning, and Multi-label Feature Selection .
+- 🌱 I’m currently researching Deep Learning, NLP and Computer Vision.
 - 💞️ I’m looking to collaborate on any projects and academic papers regarding my interests.
 - 📫 How to reach me: 
  
