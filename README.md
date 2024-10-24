@@ -1,7 +1,7 @@
   # Introduction
 
 - 👋 Hi, I’m Nasim Faridnia
-- 🎓 I'm a Computer Science graduate from Guilan University
+- 🎓 I'm a Graduate Research Assistant from The University of Texas at San Antonio
 - 👀 I’m interested in Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently researching Deep Learning, NLP and Computer Vision.
 - 💞️ I’m looking to collaborate on any projects and academic papers regarding my interests.
