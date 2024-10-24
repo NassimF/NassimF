@@ -16,7 +16,7 @@
     
     
     ## ⛏📚Projects to be added:
-    - My Bachelor thesis about **"Multi-label Feature Selection"** (Supervisor: Dr.Sadegh Eskandari)
+ 
    
 
 <!---
