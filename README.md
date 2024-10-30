@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on any projects and academic papers regarding my interests.
 - 📫 How to reach me: 
  
-     Email: nasimfaridnia@gmail.com
+     Email: seyedehnasim.faridnia@my.utsa.edu
      
     Linkedin: https://www.linkedin.com/in/nasim-faridnia/
     
