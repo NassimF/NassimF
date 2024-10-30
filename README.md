@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Nasim Faridnia
 - 🎓 I'm a Graduate Research Assistant from The University of Texas at San Antonio
-- 👀 I’m interested in Machine Learning and Artificial Intelligence.
+- 👀 I’m interested in the intersection of NLP and Computer Vision
 - 🌱 I’m currently researching Deep Learning, NLP and Computer Vision.
 - 💞️ I’m looking to collaborate on any projects and academic papers regarding my interests.
 - 📫 How to reach me: 
