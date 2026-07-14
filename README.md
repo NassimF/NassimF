@@ -4,7 +4,7 @@
 - 🎓 I'm a Graduate Research Assistant from The University of Texas at San Antonio
 - 👀 I’m interested in the intersection of NLP and Computer Vision
 - 🌱 I’m currently researching Deep Learning, NLP and Computer Vision.
-- 💞️ I’m looking to collaborate on any projects and academic papers regarding my interests.
+- 💞️ I’m always looking to collaborate on any projects and academic papers regarding my interests.
 - 📫 How to reach me: 
  
      Email: seyedehnasim.faridnia@my.utsa.edu
